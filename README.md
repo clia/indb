@@ -1,4 +1,4 @@
-# indb - Programming In Database
+# InDB - Programming In Database
 
 A framework for programming in the PostgreSQL database using Rust.
 
